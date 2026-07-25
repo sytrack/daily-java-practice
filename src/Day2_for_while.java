@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day2 {
+public class Day2_for_while {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day4 {
+public class Day4_method {
     // Method declared outside main
     public static double add(double a, double b){
         return a + b;

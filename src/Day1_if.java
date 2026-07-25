@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day1 {
+public class Day1_if {
     public static void main(String[] args){
        Scanner sc = new Scanner(System.in);
        System.out.println("a 값을 입력하세요: ");

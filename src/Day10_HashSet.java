@@ -1,9 +1,8 @@
-import java.sql.SQLOutput;
 import java.util.HashSet;
 import java.util.Scanner;
-import java.util.SortedMap;
 
-public class Day10 {
+
+public class Day10_HashSet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -44,7 +43,7 @@ public class Day10 {
         }
 
         // Step 4: Search for a word
-        System.out.println("Enter a workd to search: ");
+        System.out.println("Enter a word to search: ");
         String target = sc.nextLine();
         if (wordset.contains(target)){
             System.out.println("\"" + target + "\" is in the set.");
