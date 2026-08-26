@@ -1,5 +1,5 @@
 public class LeetCode_Valid_Palindrome {
-    Public boolean isPalindrome(String s) {
+    public boolean isPalindrome(String s) {
 
         // Step 1: 특수문자/공백 제거, 소문자로 변환
         StringBuilder sb = new StringBuilder();
